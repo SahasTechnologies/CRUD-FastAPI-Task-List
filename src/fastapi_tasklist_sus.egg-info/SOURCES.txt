@@ -1,0 +1,10 @@
+LICENSE
+pyproject.toml
+readme.md
+src/tasklist.py
+src/fastapi_tasklist_sus.egg-info/PKG-INFO
+src/fastapi_tasklist_sus.egg-info/SOURCES.txt
+src/fastapi_tasklist_sus.egg-info/dependency_links.txt
+src/fastapi_tasklist_sus.egg-info/entry_points.txt
+src/fastapi_tasklist_sus.egg-info/requires.txt
+src/fastapi_tasklist_sus.egg-info/top_level.txt

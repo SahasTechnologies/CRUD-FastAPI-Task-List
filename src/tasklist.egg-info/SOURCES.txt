@@ -1,0 +1,7 @@
+LICENSE
+pyproject.toml
+src/tasklist.py
+src/tasklist.egg-info/PKG-INFO
+src/tasklist.egg-info/SOURCES.txt
+src/tasklist.egg-info/dependency_links.txt
+src/tasklist.egg-info/top_level.txt

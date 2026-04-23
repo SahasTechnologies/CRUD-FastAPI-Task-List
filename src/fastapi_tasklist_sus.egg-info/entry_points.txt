@@ -1,0 +1,2 @@
+[console_scripts]
+fastapi-tasklist = tasklist:main
